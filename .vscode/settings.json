@@ -6,7 +6,8 @@
   "idf.portWin": "COM5",
   "idf.currentSetup": "D:\\Tools\\ESP32\\v5.5.1\\esp-idf",
   "idf.customExtraVars": {
-    "IDF_TARGET": "esp32s3"
+    "IDF_TARGET": "esp32s3",
+    "IDF_COMPONENT_STORAGE_URL": "https://components-cn.espressif.com"
   },
   "clangd.path": "C:\\Espressif\\tools\\esp-clang\\esp-19.1.2_20250312\\esp-clang\\bin\\clangd.exe",
   "clangd.arguments": [
